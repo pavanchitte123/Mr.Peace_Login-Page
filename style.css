@@ -102,7 +102,7 @@ h2{
     position: absolute;
     min-height: 100%;
     width: 100%;
-    background: linear-gradient(90deg,  blue 0%, #fc00ff 100%);
+    background: linear-gradient(90deg,  #fc00ff 45%, yellow 100%);
     clip-path: circle(350px at right 170px);
     border-radius: 30px;
     z-index: 1;
